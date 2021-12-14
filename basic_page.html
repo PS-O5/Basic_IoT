@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Smart Home System</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body style="background-color: seagreen; color: seashell; text-align: center;">
+
+    <h1> Smart Home Control Panel</h1>                               
+    <h4>by PS_O5</h4>
+    <br>
+    <button style="margin: 10px;" id="111" class="button">L2 ON</button>
+    <button id="110" class="button">L2 OFF</button>
+    <br>
+    <button style="margin:10px;" id="121" class="button"> L1 ON</button>
+    <button id="120" class="button">L2 OFF</button>
+    <script>                                                        //starting Javascript.
+        $(".button").click(function () {                            //if any button from the ".button" class is clicked
+            var p = $(this).attr('id');                             //get this button id and store it inside the "p" variable.
+            pin: p                                                  //a dictionary contains the button id to get sent to the web server.
+            $.get("http://192.168.x.x:80/", {                       //Replace x by the actual local server IP if hosted locally otherwise, replace entire by your Server IP, then send a get request to the web server"http://192.168.1.4:80/" (":80" means port number 80) with some data in a form of dictionary {pin: p} which is the butoon id.
+            pin: p
+            });
+        });
+    </script>
+</body>
+
+</html>
+SCHEMATICS
