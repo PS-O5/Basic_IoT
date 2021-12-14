@@ -1,2 +1,2 @@
-# ESP8266_ArdUno_Ini
-Basic script used to connect Esp8266 to Arduino (Uno in my case).
+# My basic scripts for IoT Projects
+Basic scripts used mainly to configure Esp8266 & Arduino (Uno in my case).
