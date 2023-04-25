@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <tchar.h>
-#include "SerialClass.h"	// Library described above
+#include "SerialClass.h"	
 #include <string>
 
 
