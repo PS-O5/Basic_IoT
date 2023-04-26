@@ -16,6 +16,6 @@ Serial monitor scripts in C/C++, Pyython, JS and I shall add more as I learn mor
 
 Using these scripts you can take over the world! JK! Its a bit complex to explain those scripts, if you are worthy, you shall find out (｡◕‿◕｡)
 
-## ARM Scripts
+## ARM v8 Scripts
 
 The name is enough, I guess? It has some basic protocol and SysInit scripts.
