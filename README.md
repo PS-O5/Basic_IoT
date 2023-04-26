@@ -10,7 +10,7 @@ Some basic files. Nothing special, just dumped stuff from my hdd folder.
 
 ## Serial Monitors
 
-Serial monitor scripts in C/C++, Pyython, JS and I shall add more as I learn more    (■ ͟ʖ■)━☆ﾟ.*･｡ﾟ
+Serial monitor scripts in C/C++, Python, JS and I shall add more as I learn more    (■ ͟ʖ■)━☆ﾟ.*･｡ﾟ
 
 ## Usb Authorization
 
