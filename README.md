@@ -2,15 +2,15 @@
 
 ## Arduino
 
-Basically the file names are self explanatory. Still if you don't know what does what, study and comme back.
+Basically the file names are self explanatory. Still if you don't know what does what, study and come back.
 
 ## ESP8266
 
-Some basic files. Nothing special, just dumped stuff from my hdd folder
+Some basic files. Nothing special, just dumped stuff from my hdd folder.
 
 ## Serial Monitors
 
-Serial monitor scripts in C/C++, Pyython, JS and I shall add more as I learn more (■ ͟ʖ■)━☆ﾟ.*･｡ﾟ
+Serial monitor scripts in C/C++, Pyython, JS and I shall add more as I learn more    (■ ͟ʖ■)━☆ﾟ.*･｡ﾟ
 
 ## Usb Authorization
 
